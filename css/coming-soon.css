@@ -40,7 +40,7 @@ video {
 
 @media (pointer: coarse) and (hover: none) {
   body {
-    background: url("../img/bg-mobile-fallback.jpg") #002E66 no-repeat center center scroll;
+    background: url("../img/bg-mobile-fallback.jpg") #0F3F37 no-repeat center center scroll;
     background-position: cover;
   }
   body video {
@@ -75,7 +75,7 @@ video {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: rgba(15, 63, 55, 0.8);
   transform: skewY(4deg);
   transform-origin: bottom right;
 }
@@ -152,7 +152,7 @@ video {
 .social-icons ul > li > a {
   display: block;
   color: white;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: rgba(15, 63, 55, 0.8);
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
@@ -189,7 +189,7 @@ video {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #002E66;
+    background-color: #0F3F37;
   }
 }
 
